@@ -11,7 +11,7 @@ import {
 import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
-  apiKey = process.env.REACT_APP_Api_Key;
+  apiKey = "ee2977e5b3ee4d79a9b61ac3d2ca2626";
   pageSize = 6;
   state = {
     progress: 0
