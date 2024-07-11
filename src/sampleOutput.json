@@ -1,0 +1,125 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Patrick Freyne",
+            "title": "Life in a homeless hub: ‘I have nowhere to go... If I’m upset, I get under my bed’",
+            "description": "Rachel (9) travels from Gardiner Street in Dublin to her school near her former home in Tallaght",
+            "url": "https://www.irishtimes.com/life-style/people/2022/11/26/life-in-a-homeless-hub-i-have-nowhere-to-goif-im-upset-i-get-under-my-bed/",
+            "urlToImage": "https://www.irishtimes.com/resizer/ecJOdCNR9iQTR5TO1ikWhEdmkvE=/1200x630/filters:format(jpg):quality(70):focal(3558x2650:3568x2660)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LWO3XVIZGRFA5AHIYLM26L3PQY.jpg",
+            "publishedAt": "2022-11-25T19:39:05Z",
+            "content": "My friends say, Its so sad that youre homeless, says nine-year-old Rachel. I say Ive explained this to you 99,596 million times. Im not homeless. I just live in a hub. And they say, Whats a hub? and … [+11385 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Ian Hughes",
+            "title": "Porsche 'travelling wrong way down M6' when girl, 3, was killed",
+            "description": "Faye Dawson was travelling in a Vauxhall with her mother and another man, who both remain in hospital",
+            "url": "https://www.lancs.live/news/lancashire-news/porsche-boxster-travelling-wrong-way-25607472",
+            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article25598112.ece/ALTERNATES/s1200/0_BHR_LEC_241122_FAYE2.jpg",
+            "publishedAt": "2022-11-25T15:23:42+00:00",
+            "content": "A Porsche Boxster is believed to have been travelling in the wrong direction down the M6 when it was involved in a crash which killed a three-year-old girl.\r\nFaye Dawson lost her life in the collisio… [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Fatima Aziz, Ellie Kemp",
+            "title": "Sue Radford 'disappointed' after trip to Manchester Christmas Markets",
+            "description": "The mum-of-22 travelled from Lancashire to check out Manchester's iconic markets",
+            "url": "https://www.manchestereveningnews.co.uk/news/showbiz-news/sue-radford-disappointed-after-trip-25606608",
+            "urlToImage": "https://i2-prod.lancs.live/incoming/article25574068.ece/ALTERNATES/s1200/0_Screenshot-2022-11-22-060426.png",
+            "publishedAt": "2022-11-25T15:04:58+00:00",
+            "content": "Sue Radford was left a 'bit disappointed' after travelling from Lancashire to visit Manchester's Christmas Markets with some of her children.\r\nThe mum of Britain's biggest family took a trip to the M… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Chinchar",
+            "title": "Rain and thunderstorms will make for difficult post-Thanksgiving travel",
+            "description": "Whether you are out shopping Black Friday deals, exercising off your Thanksgiving feast, or traveling back home, rain and thunderstorms may cause some delays and headaches.",
+            "url": "http://us.cnn.com/2022/11/25/weather/weather-holiday-travel-rain-thunderstorms/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221125084051-weather-multiple-systems-travel-holiday-weather-card-image.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-25T14:43:41Z",
+            "content": "Whether you are out shopping Black Friday deals, exercising off your Thanksgiving feast, or traveling back home, rain and thunderstorms may cause some delays and headaches.\r\nA frontal system Friday m… [+6127 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street, CNN",
+            "title": "Her luggage was lost. Then a kind stranger came to her aid",
+            "description": "When airport worker Azalia Claudine Becerril Angulo helped traveler Hana Sofia Lopes after her luggage got lost across the Atlantic, the two women formed an unexpected connection.",
+            "url": "http://us.cnn.com/travel/article/chance-encounters-lost-luggage-friendship/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221125104116-lost-luggage-friendship2-super-tease.jpg",
+            "publishedAt": "2022-11-25T11:55:13Z",
+            "content": "Editor's Note Sign up for Unlocking the World, CNN Travel's weekly newsletter. Get news about destinations opening, inspiration for future adventures, plus the latest in aviation, food and drink, whe… [+6738 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Phillip de Wet",
+            "title": "LIVE | The return of Black Friday travel deals, and Makro says strikes won't be disruptive",
+            "description": "These are the Black Friday discounts and deals in South Africa that caught our eye, and all the most important details about Black Friday 2022.",
+            "url": "https://www.businessinsider.co.za/black-friday-2022-in-south-africa-the-best-deals-and-discounts-live-2022-11",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7771/8e4ec612f9b5425fbda60e7b5302d89f.jpg",
+            "publishedAt": "2022-11-24T21:54:15+00:00",
+            "content": "Price review, news analysis, opinion\r\n<ul><li>Makro stores are due to see protests all weekend, but its parent company says all will be well.</li><li>There's a war on in the air fryer aisle this Blac… [+5524 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street, CNN",
+            "title": "Flight attendants share their air travel secrets",
+            "description": "As Thanksgiving kicks off the annual air travel scramble, veteran cabin crew share some of their tips and tricks for handling holiday travel and share what they really think of passengers.",
+            "url": "http://us.cnn.com/travel/article/flight-attendant-secrets/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221123081324-02-flight-attendant-qa-seats-super-tease.jpg",
+            "publishedAt": "2022-11-23T15:03:56Z",
+            "content": "(CNN) It feels like the summer of travel chaos only just subsided, but the holiday travel season is now upon us. \r\nNavigating the world of airports and airplanes at this time can be stressful, but if… [+19447 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Megan McCluskey",
+            "title": "Too Many Rich People Bought Airbnbs. Now They’re Sitting Empty",
+            "description": "Many Airbnb hosts are weathering a steep decline in occupancy rates, but it’s not necessarily because people don’t want to travel.",
+            "url": "http://time.com/6223185/airbnbs-empty-short-term-rentals/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/11/airbnb-rental-owners.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2022-11-02T20:57:54Z",
+            "content": "Airbnbs are empty. At least that’s what it seems like to some Airbnb hosts, even though the company reported its “most profitable quarter ever” on Tuesday.\r\nSome social media users have been speculat… [+8901 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Heather Greenwood Davis",
+            "title": "Families are leading a new wave in Black travel. Here’s why",
+            "description": "For many parents, showing their kids the world is about both the past and the future.",
+            "url": "https://www.nationalgeographic.com/travel/2021/02/the-importance-of-travel-for-black-families.html",
+            "urlToImage": "https://www.nationalgeographic.com/content/dam/travel/2021-digital/black-family-travel/black-family-travel-2.jpg",
+            "publishedAt": "2021-02-17T14:37:24.3073832Z",
+            "content": null
+        }
+    ]
+} 
+{this.state.loading && <Spinner/>}
+{/*import Spinner from './Spinner';*/}
